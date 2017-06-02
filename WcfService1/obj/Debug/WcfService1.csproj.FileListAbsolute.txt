@@ -1,0 +1,5 @@
+c:\users\u585445\documents\visual studio 2012\Projects\StackOverflow_01\WcfService1\bin\WcfService1.dll
+c:\users\u585445\documents\visual studio 2012\Projects\StackOverflow_01\WcfService1\bin\WcfService1.pdb
+c:\users\u585445\documents\visual studio 2012\Projects\StackOverflow_01\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+c:\users\u585445\documents\visual studio 2012\Projects\StackOverflow_01\WcfService1\obj\Debug\WcfService1.dll
+c:\users\u585445\documents\visual studio 2012\Projects\StackOverflow_01\WcfService1\obj\Debug\WcfService1.pdb

@@ -1,0 +1,6 @@
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\StringToFile\bin\Debug\StringToFile.exe.config
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\StringToFile\bin\Debug\StringToFile.exe
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\StringToFile\bin\Debug\StringToFile.pdb
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\StringToFile\obj\Debug\StringToFile.csprojResolveAssemblyReference.cache
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\StringToFile\obj\Debug\StringToFile.exe
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\StringToFile\obj\Debug\StringToFile.pdb

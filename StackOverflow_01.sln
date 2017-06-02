@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService1", "WcfService1\WcfService1.csproj", "{78B1BFD8-3D3C-4F5E-93C8-0A879B512C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioDiario", "ServicioDiario\ServicioDiario.csproj", "{547E8F6A-2C16-45EA-865D-1502C56F172B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorSerializacion", "ErrorSerializacion\ErrorSerializacion.csproj", "{3EB86EE6-5E9A-4758-8C3F-B7F58B6589DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToFile", "StringToFile\StringToFile.csproj", "{02F52F5E-BA80-4585-B3B8-6338E15F556C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B1BFD8-3D3C-4F5E-93C8-0A879B512C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B1BFD8-3D3C-4F5E-93C8-0A879B512C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B1BFD8-3D3C-4F5E-93C8-0A879B512C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B1BFD8-3D3C-4F5E-93C8-0A879B512C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547E8F6A-2C16-45EA-865D-1502C56F172B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547E8F6A-2C16-45EA-865D-1502C56F172B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547E8F6A-2C16-45EA-865D-1502C56F172B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547E8F6A-2C16-45EA-865D-1502C56F172B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB86EE6-5E9A-4758-8C3F-B7F58B6589DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB86EE6-5E9A-4758-8C3F-B7F58B6589DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB86EE6-5E9A-4758-8C3F-B7F58B6589DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB86EE6-5E9A-4758-8C3F-B7F58B6589DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F52F5E-BA80-4585-B3B8-6338E15F556C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F52F5E-BA80-4585-B3B8-6338E15F556C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F52F5E-BA80-4585-B3B8-6338E15F556C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F52F5E-BA80-4585-B3B8-6338E15F556C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

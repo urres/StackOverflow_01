@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Resumen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Listado>
+    <Cuenta>
+      <Cadena>una cuenta</Cadena>
+      <Flotante>2</Flotante>
+    </Cuenta>
+  </Listado>
+</Resumen>

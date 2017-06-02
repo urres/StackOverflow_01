@@ -1,0 +1,15 @@
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\ServicioDiario.exe.config
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\ServicioDiario.exe
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\ServicioDiario.pdb
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\Common.Logging.Core.dll
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\Common.Logging.dll
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\Quartz.dll
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\Common.Logging.pdb
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\Common.Logging.xml
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\Common.Logging.Core.pdb
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\Common.Logging.Core.xml
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\Quartz.pdb
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\bin\Debug\Quartz.xml
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\obj\Debug\ServicioDiario.csprojResolveAssemblyReference.cache
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\obj\Debug\ServicioDiario.exe
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ServicioDiario\obj\Debug\ServicioDiario.pdb

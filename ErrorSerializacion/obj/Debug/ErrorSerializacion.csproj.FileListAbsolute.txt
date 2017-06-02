@@ -1,0 +1,5 @@
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ErrorSerializacion\bin\Debug\ErrorSerializacion.exe.config
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ErrorSerializacion\bin\Debug\ErrorSerializacion.exe
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ErrorSerializacion\bin\Debug\ErrorSerializacion.pdb
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ErrorSerializacion\obj\Debug\ErrorSerializacion.exe
+C:\Users\u585445\Documents\Visual Studio 2012\Projects\StackOverflow_01\ErrorSerializacion\obj\Debug\ErrorSerializacion.pdb
